@@ -25,7 +25,7 @@
 ```yaml
 name: Franco Pari Sejas
 located_in: Springfield, Virginia
-current_occupation: Frontend Developer
+current_occupation: Aspiring Front End Software Engineeeer
 education:
   [
     "Associate's in Information Technology",
