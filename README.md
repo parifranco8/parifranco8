@@ -25,7 +25,7 @@
 ```yaml
 name: Franco Pari Sejas
 located_in: Springfield, Virginia
-current_occupation: Aspiring Front End Software Engineer
+current_occupation: Aspiring Software Engineer
 education:
   [
     "Associate's in Information Technology",
@@ -38,10 +38,14 @@ fields_of_interests:
     "Web Development",
     "UI/UX",
     "Mobile Design",
+    "Software Engineer Principles",
+    "Programming Languages",
+    "System Design",
+    "Data Structures and Algorithms",
   ]
   
-currently_learning: ["TypeScript, GraphQL and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+currently_learning: ["Python, Typescript, and Unit Testing"]
+2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies/interests: ["Gaming", "Cinema", "Soccer", "Gym", "Anime", "Travel"]
 ```
 
